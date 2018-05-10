@@ -1,5 +1,5 @@
 {
-  "name": "node-express-api-boilerplate",
+  "name": "express-rest-api",
   "version": "0.0.1",
   "private": true,
   "scripts": {
