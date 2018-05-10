@@ -1,4 +1,5 @@
-var express = require("express");
+// var express = require("express");
+import express from "express";
 var path = require("path");
 var favicon = require("serve-favicon");
 var logger = require("morgan");
@@ -8,7 +9,6 @@ var mongoose = require("mongoose");
 var env = require("node-env-file");
 
 var app = express();
-
 // if in development mode, load .env variables
 if (app.get("env") === "development") {
   env(__dirname + "/.env");
