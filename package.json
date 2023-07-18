@@ -14,7 +14,7 @@
     "geocoder": "^0.2.3",
     "hogan-express": "^0.5.2",
     "ip": "^1.1.5",
-    "mongoose": "^4.1.10",
+    "mongoose": "^5.13.20",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-sequence": "^4.0.1",
     "mongoose-sequence-plugin": "^1.0.5",
